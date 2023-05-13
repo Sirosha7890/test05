@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    background-color: #c8f5e6e7;
+}
+
+header {
+    background-color: #3ae05b;
+    padding:  10px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #000000;
+    font-weight: normal;
+    padding-bottom: 5px;
+}
+p {
+    background-color: lightblue;
+    color: black;
+}
+
+footer {
+    background-color: #8fddf2;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+
